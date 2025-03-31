@@ -12,7 +12,7 @@ import com.examly.springapp.services.DoctorService;
 
 import java.util.List;
 
-import javax.validation.Valid;
+
 @CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/doctors")
